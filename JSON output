@@ -1,0 +1,23 @@
+{
+  "sectionsToUpdate": [
+    {
+      "section": "Principal Duties and Responsibilities",
+      "changeType": "explicit",
+      "requestedChange": "Add responsibility for onboarding new commercial clients."
+    },
+    {
+      "section": "Knowledge Skills Abilities",
+      "changeType": "implied",
+      "requestedChange": "May need client relationship and onboarding skills to match the new duty."
+    }
+  ],
+  "impactFlags": [
+    {
+      "field": "Sales/Non-Sales",
+      "reason": "Client onboarding may involve sales activity."
+    }
+  ],
+  "outOfScope": [],
+  "needsClarification": false,
+  "clarificationQuestion": ""
+}
